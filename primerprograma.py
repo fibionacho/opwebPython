@@ -35,7 +35,6 @@ if azul: print('Cielo')
 
 if condicion1 and condicion2 and condicion3 and \  
     condicion4 and condicion5:
-
 # Las expresiones entre paréntesis, llaves o corchetes pueden 
 # ocupar varias líneas:    
 
